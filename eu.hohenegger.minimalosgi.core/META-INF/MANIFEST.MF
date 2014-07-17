@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MinimalOSGi
+Bundle-SymbolicName: eu.hohenegger.minimalosgi.core
+Bundle-Version: 0.0.1.qualifier
+Bundle-Activator: eu.hohenegger.minimalosgi.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
+Import-Package: org.osgi.framework
